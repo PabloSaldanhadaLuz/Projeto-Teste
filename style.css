@@ -23,3 +23,20 @@ background-color: lightcyan;
 width: 150px;
 border-radius: 30px;
 }
+main{
+padding: 20px;
+background-color: hotpink;
+border-radius: 10px;
+}
+section{
+display: flex;
+align-items: center;
+justify-content: space-around;
+color: white;
+}
+p{
+width: 400px;
+}
+img{
+width: 400px;
+}
