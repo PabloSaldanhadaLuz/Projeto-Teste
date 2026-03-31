@@ -36,6 +36,8 @@ justify-content: space-around;
 color: white;
 margin: 20px;
 padding: 30px;
+background-color: brown;
+border-radius: 20px;
 }
 p{
 width: 400px;
@@ -49,4 +51,14 @@ section button{
     height: 100px;
     width: 250px;
     font-size: 30px;
+}
+footer{
+height: 100px;
+align-items: center;
+justify-content: center;
+background-color: orange;
+}
+h2{
+color: red;
+font-size: 30px;
 }
