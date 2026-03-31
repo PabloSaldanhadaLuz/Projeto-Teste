@@ -25,6 +25,7 @@ border-radius: 30px;
 }
 main{
 padding: 20px;
+margin: 40px;
 background-color: hotpink;
 border-radius: 10px;
 }
@@ -35,6 +36,7 @@ justify-content: space-around;
 color: white;
 margin: 20px;
 width: 90vw;
+padding: 100px;
 }
 p{
 width: 400px;
@@ -46,6 +48,6 @@ section button{
     background-color: blue;
     color: deepskyblue;
     height: 100px;
-    width: 150px;
-    font-size: 30;
+    width: 250px;
+    font-size: 30px;
 }
